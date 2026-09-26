@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Fernando%20Ivan%20Barrios%20Espinosa&fontSize=28&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2D3142,100:4F5D75&height=180&section=header&text=Fernando%20Ivan%20Barrios%20Espinosa&fontSize=26&fontColor=EEF1F5" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Estudiante+de+Sistemas+Computacionales;Desarrollador+autodidacta;Documentando+lo+que+aprendo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7C93A3&center=true&vCenter=true&width=600&lines=Estudiante+de+Sistemas+Computacionales;Desarrollador+autodidacta;Documentando+lo+que+aprendo" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-ivan-barrios-espinosa-599366259/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-4F5D75?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Buscando-Práctica%20Profesional-brightgreen?style=flat" alt="Buscando práctica" />
+  <img src="https://img.shields.io/badge/Buscando-Práctica%20Profesional-7C93A3?style=flat" alt="Buscando práctica" />
 </p>
 
 ---
@@ -42,6 +42,7 @@ Curso el 4to cuatrimestre de **Ingeniería en Sistemas Computacionales** en la U
 **Bases de datos y control de versiones**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -54,6 +55,9 @@ Guía de referencia propia sobre tipografía, unidades (rem, em, %, px, vw/vh), 
 
 #### ☕ [Cheatsheet de Java](https://github.com/FernandoCodeWeb/Code_Tools/tree/BackEnd/BackEnd/Java)
 Documentación de fundamentos de POO, control de flujo, clases y constructores, con explicaciones y analogías propias pensadas para que cualquiera con conocimientos básicos las entienda. Disponible en Markdown y PDF.
+
+#### 🐘 [Cheatsheet de SQL (PostgreSQL)](https://github.com/FernandoCodeWeb/Code_Tools/tree/DataBase)
+Guía de referencia en construcción sobre consultas y fundamentos de SQL usando PostgreSQL, con el mismo formato de documentación en Markdown y PDF. Se actualiza conforme avanzo en la materia de Base de Datos.
 
 ---
 
